@@ -24,9 +24,33 @@
     <ClCompile Include="main.c">
       <Filter>소스 파일\ProjectTest</Filter>
     </ClCompile>
+    <ClCompile Include="assignment01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LOGIN.h">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PRODUCT.h">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment18.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="contact.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="RECT.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
