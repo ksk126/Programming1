@@ -152,6 +152,7 @@
   <ItemGroup>
     <ClInclude Include="contact.h" />
     <ClInclude Include="RECT.h" />
+    <ClInclude Include="SONG.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
