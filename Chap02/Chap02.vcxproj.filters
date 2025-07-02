@@ -39,5 +39,17 @@
     <ClCompile Include="IntroMe.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="assignment03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
